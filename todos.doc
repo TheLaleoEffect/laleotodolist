@@ -1,0 +1,10 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office"
+            xmlns:x="urn:schemas-microsoft-com:office:word"
+            xmlns="http://www.w3.org/TR/REC-html40">
+
+            <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+            <html>
+            <head>
+                <meta http-equiv="Content-type" content="text/html;charset=utf-8" />
+            </head>
+            <body><h1>Database todo_list</h1><h2>Table structure for table todos</h2><table class="pma-table w-100" cellspacing="1"><tr class="print-category"><th class="print">Column</th><td class="print"><strong>Type</strong></td><td class="print"><strong>Null</strong></td><td class="print"><strong>Default</strong></td></tr><tr class="print-category"><td class="print"><em><strong>id</strong></em></td><td class="print">int(11)</td><td class="print">No</td><td class="print"></td></tr><tr class="print-category"><td class="print">names</td><td class="print">varchar(255)</td><td class="print">No</td><td class="print"></td></tr><tr class="print-category"><td class="print">dayee</td><td class="print">text</td><td class="print">No</td><td class="print"></td></tr><tr class="print-category"><td class="print">created_at</td><td class="print">datetime</td><td class="print">No</td><td class="print">current_timestamp()</td></tr></table><h2>Dumping data for table todos</h2><table class="pma-table w-100" cellspacing="1"><tr class="print-category"><td class="print">1</td><td class="print">pray</td><td class="print">friday</td><td class="print">2021-07-12 20:11:58</td></tr><tr class="print-category"><td class="print">2</td><td class="print">wash</td><td class="print">tuesday</td><td class="print">2021-07-12 20:11:58</td></tr><tr class="print-category"><td class="print">3</td><td class="print">code backend</td><td class="print">wednesday</td><td class="print">2021-07-12 20:35:23</td></tr><tr class="print-category"><td class="print">4</td><td class="print">go to market</td><td class="print">thursday</td><td class="print">2021-07-13 20:31:37</td></tr></table></body></html>
